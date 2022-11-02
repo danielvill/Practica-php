@@ -12,3 +12,8 @@ tendras que agregar ese y tambien tendras que agregar una contraseña al mismo
 
 # El archivo mostrar
 Este es el que muestra los datos que contendra la base de datos de una manera sencilla
+
+# La carpeta proyectophp 
+Muestra la opciones de actualizar ,eliminar,guardar,Mostrar con bostramp y en el servidor de xampp para que puedas ver todo lo que hicistes
+recuerda que se debe crear una base de datos que se llama " personal" y la tabla "personas" que contiene id,Nombre,Correo,telefono,estadocivil
+El id no es autoincrementable y la pagina solo sirve para ejemplo no mas 
